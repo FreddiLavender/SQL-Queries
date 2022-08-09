@@ -1,0 +1,4 @@
+SELECT (value)
+FROM (table)
+WHERE (values AND values)
+AND (value = ....)
