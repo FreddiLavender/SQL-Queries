@@ -1,0 +1,10 @@
+SELECT * 
+
+OR
+
+SELECT (value)
+FROM (table)
+WHERE (value) =<>!
+AND (value)
+
+This is showing my first SELECT queries when looking into a database either from a client, or from the internet. 
